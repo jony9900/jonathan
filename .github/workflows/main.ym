@@ -26,4 +26,4 @@ jobs:
           pip install requests
 
       - name: Run venture.py
-        run: ls && python3 new.py
+        run: python3 new.py
